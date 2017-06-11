@@ -1,0 +1,6 @@
+baseURL = "http://johnnyniu.com/"
+languageCode = "en-us"
+title = "Johnny Niu's Dev Space"
+
+[Params]
+	Author= "Johnny Niu"
